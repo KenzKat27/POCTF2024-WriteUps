@@ -1,4 +1,4 @@
-### OSINT 300-2 - Down Like This
+# OSINT 300-2 - Down Like This
 
 ## Challenge Description
 A perfectly normal street in a perfectly mundane place for many people, but when I look at it, I see all these little details that cause it to differ from my own version of mundane. The script, the bikes left unsecured near what looks to be an ATM in broad view of the sidewalk (unlike the one next to it with a privacy screen), the format of the telephone numbers, and on and on... It looks exactly like scenes I have viewed many times, and in fact it is a place much like those places I've been. But it's those subtle differences - exotic spices on a familiar food.
@@ -18,17 +18,23 @@ I started off with reverse-searching this image on google images as it was a pub
 
 ![ReverseImage.png](Photos/ReverseImage.png)
 
+
 It was easy to find the location on google maps, and street view was available!
 
 ![Maps.png](Photos/Maps.png)
+
 
 Locating the van took a little bit of trial and error with repositioning and changing the dates  to find it, but  I found eventually the van in December 2016's recorded street view.
 
 ![VanLocation.png](Photos/VanLocation.png)
 
+
 Repositioning closer behind the van and zooming in, the fax number is 04 229 2803.
 
 ![FaxNumber.png](Photos/FaxNumber.png)
 
-Entering **042292803** as the password for the archive revealed the flag:
+
+Entering **042292803** as the password for the archive revealed the flag.
+
+## Flag
 `poctf{uwsp_7h3_4n5w3r_70_3v3ry7h1n6}`
