@@ -15,7 +15,7 @@ I took a [frequency analysis approach](https://en.wikipedia.org/wiki/Frequency_a
 ![Cipher.jpg](Photos/Cipher.jpg)
 
 The decrypted text was:
->"Speak the name Nebuchadnezzer no one forgets the Babylonian we all look on"
+>"Speak the name Nebuchadnezzar no one forgets the Babylonian we all look on"
 
 Entering **Nebuchadnezzar** for the VeraCrypt password reveals the flag in a txt file.
 
