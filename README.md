@@ -1,2 +1,2 @@
-# CTF-WriteUps
-Repo for all of my CTF WriteUps
+# UWSP Pointer Overflow CTF 2024
+This was a jeopardy-style CTF hosted by the University of Wisconsin-Stevens Point from September 2024 to January 2024, including challenges in cracking, cryptography, exploitation, forensics, OSINT, reverse engineering, steganography, web exploitation, and miscellanious. New challenges were posted each week. My write ups include solves I made in crypto and OSINT throughout the CTF.
